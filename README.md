@@ -16,3 +16,4 @@
        jdkバージョン：17
        mysqlバージョン：8.0.36
        tomcatバージョン：9.0
+       spring、springmvc、mybatisを利用して、フレームワームを作ったのである。
